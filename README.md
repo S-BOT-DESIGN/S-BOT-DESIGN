@@ -18,4 +18,3 @@ Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/sai-sharanya-edulapuram-797693337
 - GitHub: https://github.com/S-BOT-DESIGN
-  Currently exploring Git and Github practically
